@@ -58,6 +58,7 @@ public abstract partial class SharedStoreSystem : EntitySystem
     {
         var ev = args.Event;
 
+        // Only allow insertion if the person implanted is doing the action.
         if (ev.User == ev.Target)
             ev.TargetOverride = implant;
         else
