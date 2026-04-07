@@ -8,7 +8,7 @@ public abstract partial class SharedRadiationSystem : EntitySystem
 
     public void SetIntensity(Entity<RadiationSourceComponent?> entity, float intensity)
     {
-        if (!SourceQuery.Resolve(entity, ref entity.Comp))
+        if (!SourceQuery.Resolve(entity, ref entity.Comp, false))
             return;
 
         entity.Comp.Intensity = intensity;
