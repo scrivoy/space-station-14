@@ -1,12 +1,4 @@
 ﻿Entries:
-- author: ArtisticRoomba, seam_less
-  changes:
-  - message: Job-themed lizard plushies! You can equip them in your loadout if you
-      have 20 hours on the job.
-    type: Add
-  id: 9130
-  time: '2025-10-19T22:28:55.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/34127
 - author: AsnDen
   changes:
   - message: Large thruster (2x2) was added.
@@ -4030,3 +4022,11 @@
   id: 9641
   time: '2026-04-13T20:08:01.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43584
+- author: peaceful-joules
+  changes:
+  - message: Airlocks that were hacked via access breaker no longer have buggy examine
+      window.
+    type: Fix
+  id: 9642
+  time: '2026-04-16T17:25:23.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43564
