@@ -1,14 +1,4 @@
 ﻿Entries:
-- author: ArtisticRoomba
-  changes:
-  - message: Slimes can now metabolize their own slime to restore their blood level.
-    type: Add
-  - message: Slime is no longer effective at satiating hunger when metabolized by
-      a Slime.
-    type: Tweak
-  id: 9132
-  time: '2025-10-20T00:40:40.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/32537
 - author: Kittygyat
   changes:
   - message: Added a cosmetic carp suit to the AutoDrobe's contraband inventory!
@@ -4032,3 +4022,13 @@
   id: 9643
   time: '2026-04-16T22:37:00.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/38733
+- author: 11BelowStudio
+  changes:
+  - message: Closed the legal loophole which allowed security officers to use web
+      vests.
+    type: Fix
+  - message: Bartenders may only use their own armour vests.
+    type: Tweak
+  id: 9644
+  time: '2026-04-17T02:53:05.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/42862
