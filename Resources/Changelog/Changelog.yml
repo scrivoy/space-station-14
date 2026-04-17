@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: B_Kirill
-  changes:
-  - message: Hostile and Eliminated criminal statuses
-    type: Add
-  id: 9135
-  time: '2025-10-21T08:56:16.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/36244
 - author: michaelchessall
   changes:
   - message: Matches can now be placed into ashtrays.
@@ -4034,3 +4027,10 @@
   id: 9646
   time: '2026-04-17T10:31:16.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43613
+- author: Boaz1111
+  changes:
+  - message: Fixes the trit-frezon ratio in the guidebook being incorrect.
+    type: Fix
+  id: 9647
+  time: '2026-04-17T19:51:53.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43622
