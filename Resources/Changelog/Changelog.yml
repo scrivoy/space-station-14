@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: Princess-Cheeseballs
-  changes:
-  - message: Zombies can no longer hurt Initial Infected
-    type: Tweak
-  id: 9134
-  time: '2025-10-20T18:06:54.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/41007
 - author: B_Kirill
   changes:
   - message: Hostile and Eliminated criminal statuses
@@ -4032,3 +4025,12 @@
   id: 9645
   time: '2026-04-17T03:41:49.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43615
+- author: jessicamaybe
+  changes:
+  - message: Changed the sound for closing airlocks.
+    type: Tweak
+  - message: Fixed door animations being interrupted during normal use.
+    type: Fix
+  id: 9646
+  time: '2026-04-17T10:31:16.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43613
