@@ -1,11 +1,4 @@
 ﻿Entries:
-- author: SnappingOpossum
-  changes:
-  - message: Upgraded solar panels can now take structural damage.
-    type: Fix
-  id: 9137
-  time: '2025-10-21T09:50:17.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/40992
 - author: qwerltaz
   changes:
   - message: Goats and cows eat kudzu again.
@@ -4034,3 +4027,11 @@
   id: 9648
   time: '2026-04-18T10:56:44.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/43629
+- author: SlamBamActionman
+  changes:
+  - message: Wizard's Knock spell no longer unlocks cryosleep units, magic lamps and
+      the locker trap spell.
+    type: Fix
+  id: 9649
+  time: '2026-04-18T16:58:59.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/43641
